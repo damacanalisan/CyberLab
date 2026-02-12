@@ -21,3 +21,5 @@ python3 -m http.server 8000
 Tarayıcıdan `http://localhost:8000` adresini açın.
 
 > Not: Tüm senaryolar kurgusal ve eğitim amaçlıdır.
+⚠️ Bu proje tamamen eğitim ve simülasyon amaçlıdır.
+Gerçek sistemlere karşı saldırı amacıyla kullanılmamalıdır.
