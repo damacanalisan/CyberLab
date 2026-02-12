@@ -1,5 +1,5 @@
-# websitest
-# websitest
+# CyberLab
+# CyberLab
 
 CyberLab Academy: eğitim amaçlı, interaktif siber güvenlik simülasyon sitesi.
 
