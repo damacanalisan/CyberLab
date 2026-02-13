@@ -14,11 +14,9 @@ CyberLab Academy: eğitim amaçlı, interaktif siber güvenlik simülasyon sites
 - Senaryo Zinciri (modüller arası ilerleme takibi)
 - Eğitmen Modu (adım adım öğretici açıklamalar)
 
-## Çalıştırma
-```bash
-python3 -m http.server 8000
-```
-Tarayıcıdan `http://localhost:8000` adresini açın.
+#SİTE LİNKİ
+
+https://cyberlabacademy.netlify.app/
 
 > Not: Tüm senaryolar kurgusal ve eğitim amaçlıdır.
 ⚠️ Bu proje tamamen eğitim ve simülasyon amaçlıdır.
